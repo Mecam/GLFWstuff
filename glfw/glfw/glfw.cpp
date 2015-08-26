@@ -4,7 +4,7 @@
 #include "stdafx.h"
 
 
-void main()
+char* main()
 {
     
 }
