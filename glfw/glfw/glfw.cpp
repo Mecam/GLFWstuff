@@ -3,10 +3,11 @@
 
 #include "stdafx.h"
 #include "Libraries\GLlibs\SOIL.h"
+#include "Libraries\GLlibs\GL\glew.h"
 
 
 void main()
 {
-    
+	GLint hi;
 }
 
